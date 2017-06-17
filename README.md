@@ -10,4 +10,4 @@ A Python utility to make thumbnails of your images, built using [Pillow](//pillo
 
 **To make a thumb of a single file**: from the command line, run `python thumbnail_one.py path-to-file`.
 
-**To make a thumbs of all the image files in a directory**: from the command line, run `python thumbnail_all.py path-to-directory`. (Only files with extensions listed in `IMG_FORMATS will be thumb-ified--see "Things to know", above.)
+**To make a thumbs of all the image files in a directory**: from the command line, run `python thumbnail_all.py path-to-directory`. (Only files with extensions listed in `IMG_FORMATS` will be thumb-ified--see "Things to know", above.)
